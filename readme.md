@@ -28,6 +28,7 @@ then run
 ```
 julia UtilDace.jl 
 ```
+Make sure to uncomment the lines in the file for the experiment you want to reproduce. 
 Beware that producing all results can take quite some time, in particular for the FICO dataset. 
 
 #### Is UDACE production ready?
